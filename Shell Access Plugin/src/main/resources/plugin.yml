@@ -1,9 +1,0 @@
-name: ShellAccess
-version: ${project.version}
-main: xyz.yusufyaser.ShellAccess.Main
-authors: [YusufYaser]
-description: This is a plugin which allows direct shell access using a Minecraft command (with specific permissions)
-website: yusufyaser.xyz
-
-commands:
-  shell:
