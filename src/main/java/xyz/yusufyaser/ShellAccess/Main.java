@@ -43,10 +43,6 @@ public final class Main extends JavaPlugin {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
-        if (config.getString("enable_gotty").equals("yes")) {
-            Log(C("Loading gotty"));
-        }
     }
 
     @Override
