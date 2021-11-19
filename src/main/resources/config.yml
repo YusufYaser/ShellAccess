@@ -1,0 +1,13 @@
+###############################
+#                             #
+#     Shell access plugin     #
+#      v1.0                   #
+#                             #
+###############################
+
+enable_command: 'yes'
+permission: 'shell.command'
+no_permission: 'Unknown command. Type "/help" for help.'
+
+# Please do not change this
+config_version: 1
