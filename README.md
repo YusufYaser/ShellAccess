@@ -3,6 +3,8 @@
 ## Important Disclaimer
 This plugin is not designed to run on an everyday use server.
 
+I am not responsible for any damages that happen because of this plugin.
+
 **Use this for educational purposes only!**
 
 ## Information
